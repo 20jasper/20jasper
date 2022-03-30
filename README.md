@@ -27,10 +27,9 @@ Here are some ideas to get you started:
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="100%">
 
 
-### Frontend  
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -41,7 +40,7 @@ Here are some ideas to get you started:
 </td><td valign="top" width="100%">
 
 
- </td></tr></table> 
+</td></tr></table> 
  
 
 <br/>  
