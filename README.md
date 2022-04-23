@@ -87,4 +87,4 @@ Here are some ideas to get you started:
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank" rel=”noreferrer” rel="noopener">Github Profilinator</a></div>
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/">Github Profilinator</a></div>
