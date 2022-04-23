@@ -73,14 +73,14 @@ Here are some ideas to get you started:
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/20jasper" target="_blank" rel=”noreferrer” rel="noopener">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://jacobasper.com/" target="_blank" rel=”noreferrer” rel="noopener">
+<img src="https://img.shields.io/badge/Portfolio-FE7500?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/asper_jacob" target="_blank" rel=”noreferrer” rel="noopener">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/jacobasper191" target="_blank" rel=”noreferrer” rel="noopener">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
