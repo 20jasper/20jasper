@@ -22,7 +22,7 @@
 
 <br/>
 
-<p align="center">Creative, detail-oriented software engineer with a deep interest in data visualization</p>
+<p align="center">I'm a creative, detail-oriented software engineer with a deep interest in data visualization. I am currently looking for full time work and open to work on any interesting projects. </p>
 
 ### <div align="center">Go to <a href="https://jacobasper.com">my portfolio site</a> for more information!</div>
 
@@ -109,22 +109,22 @@
 			<td width="50%">
 				<h3 align="center" color="white">Personal Portfolio</h2>
 				<div align="center" > 
-					<a href="https://coronavirusworlddata.netlify.app/">
-						<img src="https://raw.githubusercontent.com/20jasper/covid-tracker/main/covidAPI.webp" alt="a site tracking COVID-19 statistics" height="200px" />
+					<a href="https://jacobasper.com/">
+						<img src="https://raw.githubusercontent.com/20jasper/portfolio-site/main/Screenshot%202022-05-12%20at%2017-04-50%20Jacob%20Asper.webp?token=GHSAT0AAAAAABSFZ6QJHLKAZGX7SKKCGZ32YT5O7TQ" alt="A site showing off some projects" />
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/20jasper/covid-tracker'>
+						<a href='https://github.com/20jasper/portfolio-site'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
-						<a href="https://coronavirusworlddata.netlify.app/">
+						<a href="https://jacobasper.com/">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - See the current world COVID deaths and cases in real time</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site showing off my work</p>
 				</div>
 			</td>
 	</table>
