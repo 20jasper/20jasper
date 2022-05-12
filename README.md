@@ -1,34 +1,135 @@
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
 <img src="githublogo.png" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm Jacob, a full-time full-stack freelance developer</div>
+<br/>
 
-<!-- more socials go here if it gets too long -->
+### <div align="center">I'm Jacob, a full-time full-stack freelance software engineer</div>
+
+<br>
+
+<div align="center">
+<a href="https://jacobasper.com/">
+<img src="https://img.shields.io/badge/Portfolio-FE7500?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/asper_jacob">
+<img src="https://img.shields.io/badge/twitter-FE7500?acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/jacobasper191">
+<img src="https://img.shields.io/badge/linkedin-FE7500?E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>  
+</div>
 
 <br/>
 
-- 🌱 I’m currently learning JavaScript
+<p align="center">Creative, detail-oriented software engineer with a deep interest in data visualization</p>
 
-- ❓ Ask me about anything related to MERN stack and related technologies
-
-- Go to <a href="https://jacobasper.com">my portfolio site</a> for more information!
+### <div align="center">Go to <a href="https://jacobasper.com">my portfolio site</a> for more information!</div>
 
 <br/>
+
+---
+
+<br>
+
+<!-- PROJECTS -->
+
+<h2 align="center" color="white">Projects</h2>
+<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center" color="white">COVID–19 API</h2>
+				<div align="center" > 
+					<a href="https://coronavirusworlddata.netlify.app/">
+						<img src="https://raw.githubusercontent.com/20jasper/covid-tracker/main/covidAPI.webp" alt="a site tracking COVID-19 statistics" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/20jasper/covid-tracker'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://coronavirusworlddata.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - See the current world COVID deaths and cases in real time</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center" color="white">COVID–19 API</h2>
+				<div align="center" > 
+					<a href="https://coronavirusworlddata.netlify.app/">
+						<img src="https://raw.githubusercontent.com/20jasper/covid-tracker/main/covidAPI.webp" alt="a site tracking COVID-19 statistics" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/20jasper/covid-tracker'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://coronavirusworlddata.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - See the current world COVID deaths and cases in real time</p>
+				</div>
+			</td>
+		<tr>
+			<td width="50%">
+				<h3 align="center" color="white">COVID–19 API</h2>
+				<div align="center" > 
+					<a href="https://coronavirusworlddata.netlify.app/">
+						<img src="https://raw.githubusercontent.com/20jasper/covid-tracker/main/covidAPI.webp" alt="a site tracking COVID-19 statistics" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/20jasper/covid-tracker'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://coronavirusworlddata.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - See the current world COVID deaths and cases in real time</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center" color="white">COVID–19 API</h2>
+				<div align="center" > 
+					<a href="https://coronavirusworlddata.netlify.app/">
+						<img src="https://raw.githubusercontent.com/20jasper/covid-tracker/main/covidAPI.webp" alt="a site tracking COVID-19 statistics" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/20jasper/covid-tracker'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://coronavirusworlddata.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - See the current world COVID deaths and cases in real time</p>
+				</div>
+			</td>
+	</table>
+</div>
+<br />
+
+---
+
+<br>
 
 ## My Skill Set
 
