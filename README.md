@@ -1,4 +1,3 @@
-
 <!--
 
 Here are some ideas to get you started:
@@ -11,37 +10,32 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->  
+-->
 
-  
 <div align="center">
 <img src="githublogo.png" align="center" style="width: 100%" />
-</div>  
+</div>
 
-### <div align="center">I'm Jacob, a full-time full-stack freelance developer</div>  
+### <div align="center">I'm Jacob, a full-time full-stack freelance developer</div>
 
 <!-- more socials go here if it gets too long -->
 
-<br/> 
+<br/>
 
+- 🌱 I’m currently learning JavaScript
 
-- 🌱 I’m currently learning JavaScript  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-
+- ❓ Ask me about anything related to MERN stack and related technologies
 
 - Go to <a href="https://jacobasper.com">my portfolio site</a> for more information!
-  
 
-<br/>  
+<br/>
 
-## My Skill Set  
+## My Skill Set
+
 <table><tr><td valign="top" width="50%">
 
+### Frontend
 
-
-### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
@@ -52,9 +46,8 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="50%">
 
+### Backend
 
-
-### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" />  
@@ -66,12 +59,12 @@ Here are some ideas to get you started:
 </div>
 
 </td></tr></table>  
- 
-
-<br/>  
 
 
-## Connect with me  
+<br/>
+
+## Connect with me
+
 <div align="center">
 <a href="https://jacobasper.com/">
 <img src="https://img.shields.io/badge/Portfolio-FE7500?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px;" />
@@ -82,9 +75,4 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/jacobasper191">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/">Github Profilinator</a></div>
+</div>
