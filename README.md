@@ -166,9 +166,10 @@
 
 <br/>
 
+<div align="center">
+
 ## Connect with me
 
-<div align="center">
 <a href="https://jacobasper.com/">
 <img src="https://img.shields.io/badge/Portfolio-FE7500?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px;" />
 </a>
