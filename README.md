@@ -88,7 +88,7 @@
 				<h3 align="center" color="white">SVG Faces</h2>
 				<div align="center" > 
 					<a href="https://svg-faces.netlify.app/">
-						<img src="https://user-images.githubusercontent.com/78604367/161706841-2b002c9d-a37a-4dcf-bc0c-863b72d00055.png" alt="a site with a a yellow happy face, a bule sad face, and a red mad face"/>
+						<img src="https://raw.githubusercontent.com/20jasper/SVG-faces/main/SVG-faces.webp" alt="a site with a a yellow happy face, a bule sad face, and a red mad face"/>
 					</a>
 					<br>
 					<br>
