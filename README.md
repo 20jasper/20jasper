@@ -43,7 +43,7 @@
 				<h3 align="center" color="white">COVID–19 Tracker</h2>
 				<div align="center" > 
 					<a href="https://coronavirusworlddata.netlify.app/">
-						<img src="https://raw.githubusercontent.com/20jasper/covid-tracker/main/covidAPI.webp" alt="a site tracking COVID-19 statistics" height="200px" />
+						<img src="https://raw.githubusercontent.com/20jasper/covid-tracker/main/CovidTracker.jpg" alt="a site tracking COVID-19 statistics" height="200px" />
 					</a>
 					<br>
 					<br>
