@@ -124,7 +124,7 @@
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site showing off my work</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site showing off my recent projects</p>
 				</div>
 			</td>
 	</table>
