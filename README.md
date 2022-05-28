@@ -18,6 +18,9 @@
 <a href="https://linkedin.com/in/jacobasper191">
 <img src="https://img.shields.io/badge/linkedin-FE7500?E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
+<a href="https://angel.co/u/20jasper" target="_blank" rel=”noreferrer” rel="noopener">
+<img src="https://img.shields.io/badge/AngelList-FE7500?E77B5.svg?&style=for-the-badge&logo=AngelList&logoColor=white" alt="Angel List" style="margin-bottom: 5px;" />
+</a>  
 </div>
 
 <br/>
@@ -178,5 +181,8 @@
 </a>
 <a href="https://linkedin.com/in/jacobasper191">
 <img src="https://img.shields.io/badge/linkedin-FE7500?E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>  
+<a href="https://angel.co/u/20jasper" target="_blank" rel=”noreferrer” rel="noopener">
+<img src="https://img.shields.io/badge/AngelList-FE7500?E77B5.svg?&style=for-the-badge&logo=AngelList&logoColor=white" alt="Angel List" style="margin-bottom: 5px;" />
 </a>  
 </div>
