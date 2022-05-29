@@ -40,6 +40,27 @@
 		<tr>
 			<!--project 1 -->
 			<td width="50%">
+				<h3 align="center" color="white">Full Stack Interview Questions</h2>
+				<div align="center" > 
+					<a href="https://full-stack-interview-prep.up.railway.app/">
+						<img src="https://github.com/bytesbybianca/readme-assets/raw/main/project-images/fullStackInterviewQuestions.gif?raw=true" alt="An app that generates random interview questions" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/20jasper/interview-question-api'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://full-stack-interview-prep.up.railway.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5, Node</strong> - Study for a full stack web deveolpment interview</p>
+				</div>
+			<!--project 2 -->
+			<td width="50%">
 				<h3 align="center" color="white">COVID–19 Tracker</h2>
 				<div align="center" > 
 					<a href="https://coronavirusworlddata.netlify.app/">
@@ -60,7 +81,8 @@
 					<p><strong>JavaScript, CSS3, HTML5</strong> - See the current world COVID deaths and cases in real time</p>
 				</div>
 			</td>
-			<!--project 2 -->
+		<tr>
+			<!--project 3 -->
 			<td width="50%">
 				<h3 align="center" color="white">Tic-Tac-Toe</h2>
 				<div align="center" > 
@@ -82,8 +104,7 @@
 					<p><strong>JavaScript, CSS3, HTML5</strong> - A 2–player tic-tac-toe game with win and draw validation</p>
 				</div>
 			</td>
-		<tr>
-			<!--project 3 -->
+			<!--project 4 -->
 			<td width="50%">
 				<h3 align="center" color="white">SVG Faces</h2>
 				<div align="center" > 
@@ -104,29 +125,6 @@
 					</p>
 					<p><strong>React, D3.js, CSS3, HTML5</strong> - Modular faces built with inline SVG</p>
 				</div>
-			</td>
-			<!--project 4 -->
-			<td width="50%">
-				<h3 align="center" color="white">Personal Portfolio</h2>
-				<div align="center" > 
-					<a href="https://jacobasper.com/">
-						<img src="https://raw.githubusercontent.com/20jasper/portfolio-site/main/Screenshot%202022-05-12%20at%2017-04-50%20Jacob%20Asper.webp?token=GHSAT0AAAAAABSFZ6QJHLKAZGX7SKKCGZ32YT5O7TQ" alt="A site showing off some projects" />
-					</a>
-					<br>
-					<br>
-					<p>
-                        <!--repo --> 
-						<a href='https://github.com/20jasper/portfolio-site'>
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-                        <!--live site --> 
-						<a href="https://jacobasper.com/">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
-						</a>	
-					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site showing off my work</p>
-				</div>
-			</td>
 	</table>
 </div>
 <br />
