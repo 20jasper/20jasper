@@ -82,7 +82,7 @@
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 						</a>	
 					</p>
-					<h5>JavaScript, CSS, HTML, Node, Express, MongoDB, Mongoose</h5>
+					<h5>JavaScript, CSS, HTML, Node, Express, EJS, MongoDB, Mongoose</h5>
 					<p>Track your monthly expenses</p>
 				</div>
 			</td>
