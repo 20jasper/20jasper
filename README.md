@@ -25,7 +25,7 @@
 
 <br/>
 
-<p align="center">I'm a creative, detail-oriented software engineer with a deep interest in data visualization. I am currently looking for full time work and open to work on any interesting projects. </p>
+<p align="center">Community taught software engineer with a proven track record of creating and implementing successful front and back end web applications. I am currently looking for full time work and open to work on any interesting projects. </p>
 
 ### <div align="center">Go to <a href="https://jacobasper.com">my portfolio site</a> for more information!</div>
 
