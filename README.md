@@ -2,8 +2,6 @@
 <img src="githublogo.png" align="center" style="width: 100%" />
 </div>
 
-<br/>
-
 ### <div align="center">I'm Jacob, a full-time full-stack software engineer</div>
 
 <br>
@@ -28,8 +26,6 @@
 <p align="center">Community taught software engineer with a proven track record of creating and implementing successful front and back end web applications. I am currently looking for full time work and open to work on any interesting projects. </p>
 
 ### <div align="center">Go to <a href="https://jacobasper.com">my portfolio</a> for more information!</div>
-
-<br/>
 
 ---
 
@@ -134,7 +130,6 @@
 				</div>
 	</table>
 </div>
-<br />
 
 ---
 
