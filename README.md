@@ -161,6 +161,7 @@
 <img style="margin: 10px" src="svg-icons/git.svg" alt="Git" height="75" />  
 <img style="margin: 10px" src="svg-icons/javascript.svg" alt="JavaScript" height="75" />  
 <img style="margin: 10px" src="svg-icons/express.svg" alt="Express.js" height="75" />  
+<img style="margin: 10px" src="svg-icons/EJS.svg" alt="EJS.js" height="75" />  
 </div>
 
 </td>
