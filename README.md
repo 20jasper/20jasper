@@ -63,18 +63,18 @@
 			<td width="50%">
 				<h3 align="center" color="white">Budget Tracker</h2>
 				<div align="center" > 
-					<a href="https://full-stack-interview-prep.up.railway.app/">
-						<img src="https://github.com/bytesbybianca/readme-assets/raw/main/project-images/fullStackInterviewQuestions.gif?raw=true" alt="An app that generates random interview questions" />
+					<a href="https://budget-tracker.up.railway.app/">
+						<img src="https://user-images.githubusercontent.com/78604367/188524492-5c3a6633-335d-4511-ac35-59dc073f138c.png" alt="An app that generates random interview questions" />
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/20jasper/interview-question-api'>
+						<a href='https://github.com/20jasper/budget-tracker'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
-						<a href="https://full-stack-interview-prep.up.railway.app/">
+						<a href="https://budget-tracker.up.railway.app/">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 						</a>	
 					</p>
