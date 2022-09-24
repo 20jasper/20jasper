@@ -89,7 +89,7 @@
 		<tr>
 			<!--project 3 -->
 			<td width="50%">
-				<h3 align="center" color="white">Full Stack Interview Questions</h2>
+				<h3 align="center" color="white">PAIHS Website</h2>
 				<div align="center" > 
 					<a href="https://full-stack-interview-prep.up.railway.app/">
 						<img src="https://github.com/bytesbybianca/readme-assets/raw/main/project-images/fullStackInterviewQuestions.gif?raw=true" alt="An app that generates random interview questions" />
@@ -106,13 +106,13 @@
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 						</a>	
 					</p>
-					<h5>JavaScript, CSS3, HTML5, Node</h5>
-					<p>Study for a full stack web deveolpment interview</p>
+					<h5>JavaScript, CSS, HTML</h5>
+					<p>An introduction to PBATS and Mentoring at PAIHS</p>
 				</div>
 			</td>
 			<!--project 4 -->
 			<td width="50%">
-				<h3 align="center" color="white">Full Stack Interview Questions</h2>
+				<h3 align="center" color="white">Coding Resources API</h2>
 				<div align="center" > 
 					<a href="https://full-stack-interview-prep.up.railway.app/">
 						<img src="https://github.com/bytesbybianca/readme-assets/raw/main/project-images/fullStackInterviewQuestions.gif?raw=true" alt="An app that generates random interview questions" />
@@ -129,8 +129,8 @@
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 						</a>	
 					</p>
-					<h5>JavaScript, CSS3, HTML5, Node</h5>
-					<p>Study for a full stack web deveolpment interview</p>
+					<h5>JavaScript, CSS, HTML, Node, Express</h5>
+					<p>Search for over 50 resources filterable by keywords</p>
 				</div>
 	</table>
 </div>
