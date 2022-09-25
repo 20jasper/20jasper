@@ -46,7 +46,7 @@
 					</a>
 					<br>
 					<br>
-					<p>
+					<div>
                         <!--repo --> 
 						<a href='https://github.com/20jasper/five-line-rhyme'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="GitHub Repo"/>
@@ -55,7 +55,7 @@
 						<a href="https://five-line-rhyme.up.railway.app/">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" alt="Live Site"/>
 						</a>	
-					</p>
+					</div>
 					<h5>JavaScript, CSS, Node, Express, Pug, MongoDB, Mongoose</h5>
 					<p>A collection of poems only 5 lines long</p>
 				</div>
@@ -68,7 +68,7 @@
 					</a>
 					<br>
 					<br>
-					<p>
+					<div>
                         <!--repo --> 
 						<a href='https://github.com/20jasper/budget-tracker'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="GitHub Repo"/>
@@ -77,7 +77,7 @@
 						<a href="https://budget-tracker.up.railway.app/">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" alt="Live Site"/>
 						</a>	
-					</p>
+					</div>
 					<h5>JavaScript, CSS, HTML, Node, Express, EJS, MongoDB, Mongoose</h5>
 					<p>Track your monthly expenses</p>
 				</div>
@@ -92,7 +92,7 @@
 					</a>
 					<br>
 					<br>
-					<p>
+					<div>
                         <!--repo --> 
 						<a href='https://github.com/20jasper/PAIHS-portfolio-page' alt="GitHub Repo">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
@@ -101,7 +101,7 @@
 						<a href="https://paihsportfolios.netlify.app/">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" alt="Live Site"/>
 						</a>	
-					</p>
+					</div>
 					<h5>JavaScript, CSS, HTML</h5>
 					<p>An introduction to PBATS and Mentoring at PAIHS</p>
 				</div>
@@ -115,7 +115,7 @@
 					</a>
 					<br>
 					<br>
-					<p>
+					<div>
                         <!--repo --> 
 						<a href='https://github.com/the-api-administration/coding-resources-api' alt="GitHub Repo">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
@@ -124,7 +124,7 @@
 						<a href="https://coding-resources-api.up.railway.app/">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" alt="Live Site"/>
 						</a>	
-					</p>
+					</div>
 					<h5>JavaScript, CSS, HTML, Node, Express</h5>
 					<p>Search for over 50 resources filterable by keywords</p>
 				</div>
