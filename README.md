@@ -53,7 +53,7 @@
 						</a>  
                         <!--live site --> 
 						<a href="https://five-line-rhyme.up.railway.app/">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" alt="Live Site"/>
 						</a>	
 					</p>
 					<h5>JavaScript, CSS, Node, Express, Pug, MongoDB, Mongoose</h5>
@@ -75,7 +75,7 @@
 						</a>  
                         <!--live site --> 
 						<a href="https://budget-tracker.up.railway.app/">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" alt="Live Site"/>
 						</a>	
 					</p>
 					<h5>JavaScript, CSS, HTML, Node, Express, EJS, MongoDB, Mongoose</h5>
@@ -99,7 +99,7 @@
 						</a>  
                         <!--live site --> 
 						<a href="https://paihsportfolios.netlify.app/">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" alt="Live Site"/>
 						</a>	
 					</p>
 					<h5>JavaScript, CSS, HTML</h5>
@@ -122,7 +122,7 @@
 						</a>  
                         <!--live site --> 
 						<a href="https://coding-resources-api.up.railway.app/">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" alt="Live Site"/>
 						</a>	
 					</p>
 					<h5>JavaScript, CSS, HTML, Node, Express</h5>
