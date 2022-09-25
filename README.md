@@ -85,20 +85,20 @@
 		<tr>
 			<!--project 3 -->
 			<td width="50%">
-				<h3 align="center" color="white">PAIHS Website</h2>
+				<h3 align="center" color="white">PAIHS Portfolios</h2>
 				<div align="center" > 
-					<a href="https://full-stack-interview-prep.up.railway.app/">
-						<img src="https://github.com/bytesbybianca/readme-assets/raw/main/project-images/fullStackInterviewQuestions.gif?raw=true" alt="An app that generates random interview questions" />
+					<a href="https://paihsportfolios.netlify.app/">
+						<img src="https://user-images.githubusercontent.com/78604367/190449712-5d834ec4-354c-4a35-953b-47ff17f5c5b1.png" alt="An app that generates random interview questions" />
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/20jasper/interview-question-api'>
+						<a href='https://github.com/20jasper/PAIHS-portfolio-page'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
-						<a href="https://full-stack-interview-prep.up.railway.app/">
+						<a href="https://paihsportfolios.netlify.app/">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 						</a>	
 					</p>
@@ -110,18 +110,18 @@
 			<td width="50%">
 				<h3 align="center" color="white">Coding Resources API</h2>
 				<div align="center" > 
-					<a href="https://full-stack-interview-prep.up.railway.app/">
+					<a href="https://coding-resources-api.up.railway.app/">
 						<img src="https://github.com/bytesbybianca/readme-assets/raw/main/project-images/fullStackInterviewQuestions.gif?raw=true" alt="An app that generates random interview questions" />
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/20jasper/interview-question-api'>
+						<a href='https://github.com/the-api-administration/coding-resources-api'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
-						<a href="https://full-stack-interview-prep.up.railway.app/">
+						<a href="https://coding-resources-api.up.railway.app/">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 						</a>	
 					</p>
