@@ -111,7 +111,7 @@
 				<h3 align="center" color="white">Coding Resources API</h2>
 				<div align="center" > 
 					<a href="https://coding-resources-api.up.railway.app/">
-						<img src="https://github.com/bytesbybianca/readme-assets/raw/main/project-images/fullStackInterviewQuestions.gif?raw=true" alt="An app that generates random interview questions" />
+						<img src="https://user-images.githubusercontent.com/78604367/192157521-25706fee-be3f-4b8a-80c7-8e081d3dd6cd.png" alt="An app that generates random interview questions" />
 					</a>
 					<br>
 					<br>
