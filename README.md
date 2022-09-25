@@ -136,10 +136,6 @@
 <br>
 
 ## My Skill Set
-
-<table>
-	<tr>
-		<td valign="top">
 		
 <div align="center">  
 	<img style="margin: 10px" src="svg-icons/javascript.svg" alt="JavaScript" height="75" />  
@@ -152,10 +148,6 @@
 	<img style="margin: 10px" src="svg-icons/HTML5.svg" alt="HTML5" height="75" />  
 	<img style="margin: 10px" src="svg-icons/react.svg" alt="React" height="75" />  
 </div>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
