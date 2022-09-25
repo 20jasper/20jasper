@@ -42,7 +42,7 @@
 				<h3 align="center" color="white">Five Line Rhyme</h2>
 				<div align="center" > 
 					<a href="https://five-line-rhyme.up.railway.app/">
-						<img src="https://github.com/bytesbybianca/readme-assets/raw/main/project-images/fullStackInterviewQuestions.gif?raw=true" alt="An app that generates random interview questions" />
+						<img src="https://user-images.githubusercontent.com/78604367/192157859-4262bdf5-cc72-4e23-8035-4666a210f82d.png" alt="An app that generates random interview questions" />
 					</a>
 					<br>
 					<br>
