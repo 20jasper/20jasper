@@ -139,7 +139,7 @@
 
 <table>
 	<tr>
-		<td valign="top" width="50%">
+		<td valign="top">
 		
 <div align="center">  
 	<img style="margin: 10px" src="svg-icons/javascript.svg" alt="JavaScript" height="75" />  
