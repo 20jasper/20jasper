@@ -136,7 +136,7 @@
 <br>
 <div align="center"> 
 
-## My Skill Set
+## Skills
 <div align="center">  
 	<img style="margin: 10px" src="svg-icons/javascript.svg" alt="JavaScript" height="75" />  
 	<img style="margin: 10px" src="svg-icons/mongoDB.svg" alt="MongoDB" height="75" />  
