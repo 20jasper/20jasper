@@ -49,7 +49,7 @@
 					<p>
                         <!--repo --> 
 						<a href='https://github.com/20jasper/five-line-rhyme'>
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="GitHub Repo"/>
 						</a>  
                         <!--live site --> 
 						<a href="https://five-line-rhyme.up.railway.app/">
@@ -71,7 +71,7 @@
 					<p>
                         <!--repo --> 
 						<a href='https://github.com/20jasper/budget-tracker'>
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="GitHub Repo"/>
 						</a>  
                         <!--live site --> 
 						<a href="https://budget-tracker.up.railway.app/">
@@ -94,7 +94,7 @@
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/20jasper/PAIHS-portfolio-page'>
+						<a href='https://github.com/20jasper/PAIHS-portfolio-page' alt="GitHub Repo">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
@@ -117,7 +117,7 @@
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/the-api-administration/coding-resources-api'>
+						<a href='https://github.com/the-api-administration/coding-resources-api' alt="GitHub Repo">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
