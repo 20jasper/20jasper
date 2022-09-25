@@ -2,9 +2,7 @@
 <img src="githublogo.png" align="center" style="width: 100%" />
 </div>
 
-<br/>
-
-### <div align="center">I'm Jacob, a full-time full-stack freelance software engineer</div>
+### <div align="center">I'm Jacob, a full-time full-stack software engineer</div>
 
 <br>
 
@@ -25,11 +23,9 @@
 
 <br/>
 
-<p align="center">I'm a creative, detail-oriented software engineer with a deep interest in data visualization. I am currently looking for full time work and open to work on any interesting projects. </p>
+<p align="center">Community taught software engineer with a proven track record of creating and implementing successful front and back end web applications. I am currently looking for full time work and open to work on any interesting projects. </p>
 
-### <div align="center">Go to <a href="https://jacobasper.com">my portfolio site</a> for more information!</div>
-
-<br/>
+### <div align="center">Go to <a href="https://jacobasper.com">my portfolio</a> for more information!</div>
 
 ---
 
@@ -43,94 +39,97 @@
 		<tr>
 			<!--project 1 -->
 			<td width="50%">
-				<h3 align="center" color="white">Full Stack Interview Questions</h2>
+				<h3 align="center" color="white">Five Line Rhyme</h2>
 				<div align="center" > 
-					<a href="https://full-stack-interview-prep.up.railway.app/">
-						<img src="https://github.com/bytesbybianca/readme-assets/raw/main/project-images/fullStackInterviewQuestions.gif?raw=true" alt="An app that generates random interview questions" />
+					<a href="https://five-line-rhyme.up.railway.app/">
+						<img src="https://user-images.githubusercontent.com/78604367/192157859-4262bdf5-cc72-4e23-8035-4666a210f82d.png" alt="The home page of five line rhyme. There are a few user–submitted poems to read" />
 					</a>
 					<br>
 					<br>
-					<p>
+					<div>
                         <!--repo --> 
-						<a href='https://github.com/20jasper/interview-question-api'>
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						<a href='https://github.com/20jasper/five-line-rhyme'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="GitHub Repo"/>
 						</a>  
                         <!--live site --> 
-						<a href="https://full-stack-interview-prep.up.railway.app/">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						<a href="https://five-line-rhyme.up.railway.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" alt="Live Site"/>
 						</a>	
-					</p>
-					<p><strong>JavaScript, CSS3, HTML5, Node</strong> - Study for a full stack web development interview</p>
+					</div>
+					<h5>JavaScript, CSS, Node, Express, Pug, MongoDB, Mongoose</h5>
+					<p>A collection of poems only 5 lines long</p>
 				</div>
-			<!--project 2 -->
+		<!--project 2 -->
 			<td width="50%">
-				<h3 align="center" color="white">COVID–19 Tracker</h2>
+				<h3 align="center" color="white">Budget Tracker</h2>
 				<div align="center" > 
-					<a href="https://coronavirusworlddata.netlify.app/">
-						<img src="https://github.com/20jasper/covid-tracker/raw/main/CovidTracker.jpg" alt="a site tracking COVID-19 statistics" height="200px" />
+					<a href="https://budget-tracker.up.railway.app/">
+						<img src="https://user-images.githubusercontent.com/78604367/188524492-5c3a6633-335d-4511-ac35-59dc073f138c.png" alt="A budget planner with a few test expenses. There is a form to add a new expense" />
 					</a>
 					<br>
 					<br>
-					<p>
+					<div>
                         <!--repo --> 
-						<a href='https://github.com/20jasper/covid-tracker'>
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						<a href='https://github.com/20jasper/budget-tracker'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="GitHub Repo"/>
 						</a>  
                         <!--live site --> 
-						<a href="https://coronavirusworlddata.netlify.app/">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						<a href="https://budget-tracker.up.railway.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" alt="Live Site"/>
 						</a>	
-					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - See the current world COVID deaths and cases in real time</p>
+					</div>
+					<h5>JavaScript, CSS, HTML, Node, Express, EJS, MongoDB, Mongoose</h5>
+					<p>Track your monthly expenses</p>
 				</div>
 			</td>
 		<tr>
 			<!--project 3 -->
 			<td width="50%">
-				<h3 align="center" color="white">Tic-Tac-Toe</h2>
+				<h3 align="center" color="white">PAIHS Portfolios</h2>
 				<div align="center" > 
-					<a href="https://2-player-tic-tac-toe.netlify.app/">
-						<img src="https://github.com/20jasper/tic-tac-toe/blob/main/tictactoe.gif?raw=true" alt="An animation of a tic tac toe game" height="200px" />
+					<a href="https://paihsportfolios.netlify.app/">
+						<img src="https://user-images.githubusercontent.com/78604367/190449712-5d834ec4-354c-4a35-953b-47ff17f5c5b1.png" alt="A large purple crest with hands handing the globe below a large purple heading that says PAIHS portfolios" />
 					</a>
 					<br>
 					<br>
-					<p>
+					<div>
                         <!--repo --> 
-						<a href='https://github.com/20jasper/tic-tac-toe'>
+						<a href='https://github.com/20jasper/PAIHS-portfolio-page' alt="GitHub Repo">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
-						<a href="https://2-player-tic-tac-toe.netlify.app/">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						<a href="https://paihsportfolios.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" alt="Live Site"/>
 						</a>	
-					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - A 2–player tic-tac-toe game with win and draw validation</p>
+					</div>
+					<h5>JavaScript, CSS, HTML</h5>
+					<p>An introduction to PBATS and Mentoring at PAIHS</p>
 				</div>
 			</td>
 			<!--project 4 -->
 			<td width="50%">
-				<h3 align="center" color="white">SVG Faces</h2>
+				<h3 align="center" color="white">Coding Resources API</h2>
 				<div align="center" > 
-					<a href="https://svg-faces.netlify.app/">
-						<img src="https://user-images.githubusercontent.com/78604367/161706841-2b002c9d-a37a-4dcf-bc0c-863b72d00055.png" alt="a site with a a yellow happy face, a bule sad face, and a red mad face"/>
+					<a href="https://coding-resources-api.up.railway.app/">
+						<img src="https://user-images.githubusercontent.com/78604367/192157521-25706fee-be3f-4b8a-80c7-8e081d3dd6cd.png" alt="A short description to the left of a search bar above a scrollable section full of filterable resources" />
 					</a>
 					<br>
 					<br>
-					<p>
+					<div>
                         <!--repo --> 
-						<a href='https://github.com/20jasper/SVG-faces'>
+						<a href='https://github.com/the-api-administration/coding-resources-api' alt="GitHub Repo">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
-						<a href="https://svg-faces.netlify.app/">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						<a href="https://coding-resources-api.up.railway.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" alt="Live Site"/>
 						</a>	
-					</p>
-					<p><strong>React, D3.js, CSS3, HTML5</strong> - Modular faces built with inline SVG</p>
+					</div>
+					<h5>JavaScript, CSS, HTML, Node, Express</h5>
+					<p>Search for over 50 resources filterable by keywords</p>
 				</div>
 	</table>
 </div>
-<br />
 
 ---
 
@@ -138,19 +137,21 @@
 
 ## My Skill Set
 
-<table><tr><td valign="top" width="50%">
+<table>
+	<tr>
+		<td valign="top" width="50%">
 
 ### Frontend
 
 <div align="center">  
-<img style="margin: 10px" src="svg-icons/react.svg" alt="React" height="75" />  
-<img style="margin: 10px" src="svg-icons/CSS3.svg" alt="CSS3" height="75" />  
-<img style="margin: 10px" src="svg-icons/HTML5.svg" alt="HTML5" height="75" />  
-<img style="margin: 10px" src="svg-icons/javascript.svg" alt="JavaScript" height="75" />  
-<img style="margin: 10px" src="svg-icons/D3js.svg" alt="D3.js" height="75" />  
+	<img style="margin: 10px" src="svg-icons/react.svg" alt="React" height="75" />  
+	<img style="margin: 10px" src="svg-icons/CSS3.svg" alt="CSS3" height="75" />  
+	<img style="margin: 10px" src="svg-icons/HTML5.svg" alt="HTML5" height="75" />  
+	<img style="margin: 10px" src="svg-icons/javascript.svg" alt="JavaScript" height="75" />  
 </div>
 
-</td><td valign="top" width="50%">
+</td>
+<td valign="top" width="50%">
 
 ### Backend
 
@@ -159,11 +160,13 @@
 <img style="margin: 10px" src="svg-icons/nodejs.svg" alt="Node.js" height="75" />  
 <img style="margin: 10px" src="svg-icons/git.svg" alt="Git" height="75" />  
 <img style="margin: 10px" src="svg-icons/javascript.svg" alt="JavaScript" height="75" />  
-<img style="margin: 10px" src="svg-icons/express.svg" alt="Express.js" height="75" />
-<img style="margin: 10px" src="svg-icons/postgreSQL.svg" alt="PostgreSQL" height="75" />  
+<img style="margin: 10px" src="svg-icons/express.svg" alt="Express.js" height="75" />  
+<img style="margin: 10px" src="svg-icons/EJS.svg" alt="EJS.js" height="75" />  
 </div>
 
-</td></tr></table>
+</td>
+</tr>
+</table>
 
 <br/>
 
