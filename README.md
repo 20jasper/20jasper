@@ -42,7 +42,7 @@
 				<h3 align="center" color="white">Five Line Rhyme</h2>
 				<div align="center" > 
 					<a href="https://five-line-rhyme.up.railway.app/">
-						<img src="https://user-images.githubusercontent.com/78604367/192157859-4262bdf5-cc72-4e23-8035-4666a210f82d.png" alt="An app that generates random interview questions" />
+						<img src="https://user-images.githubusercontent.com/78604367/192157859-4262bdf5-cc72-4e23-8035-4666a210f82d.png" alt="The home page of five line rhyme. There are a few user–submitted poems to read" />
 					</a>
 					<br>
 					<br>
@@ -64,7 +64,7 @@
 				<h3 align="center" color="white">Budget Tracker</h2>
 				<div align="center" > 
 					<a href="https://budget-tracker.up.railway.app/">
-						<img src="https://user-images.githubusercontent.com/78604367/188524492-5c3a6633-335d-4511-ac35-59dc073f138c.png" alt="An app that generates random interview questions" />
+						<img src="https://user-images.githubusercontent.com/78604367/188524492-5c3a6633-335d-4511-ac35-59dc073f138c.png" alt="A budget planner with a few test expenses. There is a form to add a new expense" />
 					</a>
 					<br>
 					<br>
@@ -88,7 +88,7 @@
 				<h3 align="center" color="white">PAIHS Portfolios</h2>
 				<div align="center" > 
 					<a href="https://paihsportfolios.netlify.app/">
-						<img src="https://user-images.githubusercontent.com/78604367/190449712-5d834ec4-354c-4a35-953b-47ff17f5c5b1.png" alt="An app that generates random interview questions" />
+						<img src="https://user-images.githubusercontent.com/78604367/190449712-5d834ec4-354c-4a35-953b-47ff17f5c5b1.png" alt="A large purple crest with hands handing the globe below a large purple heading that says PAIHS portfolios" />
 					</a>
 					<br>
 					<br>
@@ -111,7 +111,7 @@
 				<h3 align="center" color="white">Coding Resources API</h2>
 				<div align="center" > 
 					<a href="https://coding-resources-api.up.railway.app/">
-						<img src="https://user-images.githubusercontent.com/78604367/192157521-25706fee-be3f-4b8a-80c7-8e081d3dd6cd.png" alt="An app that generates random interview questions" />
+						<img src="https://user-images.githubusercontent.com/78604367/192157521-25706fee-be3f-4b8a-80c7-8e081d3dd6cd.png" alt="A short description to the left of a search bar above a scrollable section full of filterable resources" />
 					</a>
 					<br>
 					<br>
