@@ -136,37 +136,17 @@
 <br>
 
 ## My Skill Set
-
-<table>
-	<tr>
-		<td valign="top" width="50%">
-
-### Frontend
-
 <div align="center">  
-	<img style="margin: 10px" src="svg-icons/react.svg" alt="React" height="75" />  
+	<img style="margin: 10px" src="svg-icons/javascript.svg" alt="JavaScript" height="75" />  
+	<img style="margin: 10px" src="svg-icons/mongoDB.svg" alt="MongoDB" height="75" />  
+	<img style="margin: 10px" src="svg-icons/nodejs.svg" alt="Node.js" height="75" />  
+	<img style="margin: 10px" src="svg-icons/git.svg" alt="Git" height="75" />   
+	<img style="margin: 10px" src="svg-icons/express.svg" alt="Express.js" height="75" />  
+	<img style="margin: 10px" src="svg-icons/EJS.svg" alt="EJS.js" height="75" />  
 	<img style="margin: 10px" src="svg-icons/CSS3.svg" alt="CSS3" height="75" />  
 	<img style="margin: 10px" src="svg-icons/HTML5.svg" alt="HTML5" height="75" />  
-	<img style="margin: 10px" src="svg-icons/javascript.svg" alt="JavaScript" height="75" />  
+	<img style="margin: 10px" src="svg-icons/react.svg" alt="React" height="75" />  
 </div>
-
-</td>
-<td valign="top" width="50%">
-
-### Backend
-
-<div align="center">  
-<img style="margin: 10px" src="svg-icons/mongoDB.svg" alt="MongoDB" height="75" />  
-<img style="margin: 10px" src="svg-icons/nodejs.svg" alt="Node.js" height="75" />  
-<img style="margin: 10px" src="svg-icons/git.svg" alt="Git" height="75" />  
-<img style="margin: 10px" src="svg-icons/javascript.svg" alt="JavaScript" height="75" />  
-<img style="margin: 10px" src="svg-icons/express.svg" alt="Express.js" height="75" />  
-<img style="margin: 10px" src="svg-icons/EJS.svg" alt="EJS.js" height="75" />  
-</div>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
