@@ -2,7 +2,7 @@
 <img src="githublogo.png" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm Jacob, a full-time full-stack software engineer</div>
+### <div align="center">I'm Jacob, a full time full stack software engineer</div>
 
 <br>
 
