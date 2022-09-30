@@ -56,7 +56,7 @@
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" alt="Live Site"/>
 						</a>	
 					</div>
-					<h5>JavaScript, CSS, Node, Express, Pug, MongoDB, Mongoose, Clousinary</h5>
+					<h5>JavaScript, CSS, Node, Express, Pug, MongoDB, Mongoose, Cloudinary</h5>
 					<p>A collection of poems only 5 lines long</p>
 				</div>
 		<!--project 2 -->
