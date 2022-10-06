@@ -23,7 +23,6 @@
 
 <br/>
 
-
 <p align="center">Community taught software engineer with a proven track record of creating and implementing successful front and back end web applications. I am currently looking for full time work and open to work on any interesting projects. </p>
 
 ### <div align="center">Go to <a href="https://jacobasper.com">my portfolio</a> for more information!</div>
@@ -112,7 +111,7 @@
 				<h3 align="center" color="white">Coding Resources API</h2>
 				<div align="center" > 
 					<a href="https://coding-resources-api.up.railway.app/">
-						<img src="https://user-images.githubusercontent.com/78604367/192157521-25706fee-be3f-4b8a-80c7-8e081d3dd6cd.png" alt="A short description to the left of a search bar above a scrollable section full of filterable resources" />
+						<img src="https://user-images.githubusercontent.com/78604367/194408678-20f933d1-448d-44a4-bdad-91a04498e7d2.gif" alt="A short description to the left of a search bar above a scrollable section full of filterable resources" />
 					</a>
 					<br>
 					<br>
