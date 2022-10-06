@@ -64,7 +64,7 @@
 				<h3 align="center" color="white">Budget Tracker</h2>
 				<div align="center" > 
 					<a href="https://budget-tracker.up.railway.app/">
-						<img src="https://user-images.githubusercontent.com/78604367/194408461-dbc4cb48-f934-423d-b072-93086ebfaf75.gif" alt="A budget planner with a few test expenses. There is a form to add a new expense" />
+						<img src="https://user-images.githubusercontent.com/78604367/194408461-dbc4cb48-f934-423d-b072-93086ebfaf75.gif" alt="An animation of a budget planner with a few test expenses. An expense is deleted then another is added" />
 					</a>
 					<br>
 					<br>
