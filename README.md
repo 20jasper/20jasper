@@ -111,7 +111,7 @@
 				<h3 align="center" color="white">Coding Resources API</h2>
 				<div align="center" > 
 					<a href="https://coding-resources-api.up.railway.app/">
-						<img src="https://user-images.githubusercontent.com/78604367/194408678-20f933d1-448d-44a4-bdad-91a04498e7d2.gif" alt="A short description to the left of a search bar above a scrollable section full of filterable resources" />
+						<img src="https://user-images.githubusercontent.com/78604367/194408678-20f933d1-448d-44a4-bdad-91a04498e7d2.gif" alt="An animation of the Coding Resources API site. A sample query is made to filter the results, then the page is scrolled to the contributors section" />
 					</a>
 					<br>
 					<br>
