@@ -23,6 +23,7 @@
 
 <br/>
 
+
 <p align="center">Community taught software engineer with a proven track record of creating and implementing successful front and back end web applications. I am currently looking for full time work and open to work on any interesting projects. </p>
 
 ### <div align="center">Go to <a href="https://jacobasper.com">my portfolio</a> for more information!</div>
@@ -64,7 +65,7 @@
 				<h3 align="center" color="white">Budget Tracker</h2>
 				<div align="center" > 
 					<a href="https://budget-tracker.up.railway.app/">
-						<img src="https://user-images.githubusercontent.com/78604367/188524492-5c3a6633-335d-4511-ac35-59dc073f138c.png" alt="A budget planner with a few test expenses. There is a form to add a new expense" />
+						<img src="https://user-images.githubusercontent.com/78604367/194408461-dbc4cb48-f934-423d-b072-93086ebfaf75.gif" alt="A budget planner with a few test expenses. There is a form to add a new expense" />
 					</a>
 					<br>
 					<br>
