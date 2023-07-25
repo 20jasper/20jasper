@@ -3,7 +3,7 @@
   <img src="githublogo.png" align="center" style="width: 100%">
 </div>
 
-<h3 align="center">I'm Jacob, a full time full stack software engineer</h3>
+<h1 align="center">I'm Jacob, a full stack web developer</h1>
 
 <div align="center">
   <a href="https://jacobasper.com/">
