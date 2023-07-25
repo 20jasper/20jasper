@@ -1,11 +1,11 @@
 {
-  "name": "",
+  "name": "20jasper-github-readme",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build",
+    "build": "astro build && cp dist/index.html README2.md",
     "preview": "astro preview",
     "astro": "astro"
   },
