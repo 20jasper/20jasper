@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build && cp dist/index.html README2.md",
+    "build": "astro build && cp dist/index.html README.md",
     "preview": "astro preview",
     "astro": "astro"
   },
