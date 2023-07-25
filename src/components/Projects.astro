@@ -1,0 +1,66 @@
+---
+import { projects } from "@content/projects";
+
+const formatter = new Intl.ListFormat("en", {
+  style: "long",
+  type: "conjunction",
+});
+---
+
+<h2 align="center" color="white">Projects</h2>
+<div align="center">
+  <table>
+    <tr>
+      {
+        projects
+          .map(
+            ({
+              demoUrl,
+              gitHubUrl,
+              projectName,
+              techUsed,
+              media,
+              description,
+            }) => {
+              return (
+                <td width="50%">
+                  <h3 align="center" color="white">
+                    {projectName}
+                  </h3>
+                  <div align="center">
+                    <a href={demoUrl}>
+                      <img src={media.src} alt={media.altText} />
+                    </a>
+                    <div>
+                      <a href={gitHubUrl}>
+                        <img
+                          src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"
+                          alt={`${projectName} GitHub Repo`}
+                        />
+                      </a>
+                      <a href={demoUrl}>
+                        <img
+                          src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"
+                          alt={`${projectName} Live Site`}
+                        />
+                      </a>
+                    </div>
+                    <p>{description}</p>
+                    <p>{formatter.format(techUsed)}</p>
+                  </div>
+                </td>
+              );
+            }
+          )
+          // this gross chain is done since astro doesn't allow jsx in the frontmatter :(
+          // split into rows of 2
+          .reduce((tableRows, _, i, array) => {
+            if (i % 2 === 0) {
+              tableRows.push(<tr>{array.slice(i, i + 2)}</tr>);
+            }
+            return tableRows;
+          }, [])
+      }
+    </tr>
+  </table>
+</div>

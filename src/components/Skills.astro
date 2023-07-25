@@ -1,0 +1,83 @@
+---
+type Icon = {
+  src: string;
+  altText: string;
+};
+
+const icons: Icon[] = [
+  {
+    src: "typeScript.svg",
+    altText: "TypeScript",
+  },
+  {
+    src: "react.svg",
+    altText: "react",
+  },
+  {
+    src: "AWS.svg",
+    altText: "AWS",
+  },
+  {
+    src: "python.svg",
+    altText: "python",
+  },
+  {
+    src: "rust.svg",
+    altText: "Rust",
+  },
+  {
+    src: "graphQL.svg",
+    altText: "graphQL",
+  },
+  {
+    src: "java.svg",
+    altText: "java",
+  },
+  {
+    src: "nodejs.svg",
+    altText: "Node.js",
+  },
+  {
+    src: "git.svg",
+    altText: "Git",
+  },
+  {
+    src: "express.svg",
+    altText: "Express",
+  },
+  {
+    src: "HTML5.svg",
+    altText: "HTML",
+  },
+  {
+    src: "CSS3.svg",
+    altText: "CSS",
+  },
+  {
+    src: "mongoDB.svg",
+    altText: "MongoDB",
+  },
+  {
+    src: "postgreSQL.svg",
+    altText: "postgreSQL",
+  },
+];
+---
+
+<div align="center">
+  <h2>Skills</h2>
+  <div align="center">
+    {
+      icons.map(({ src, altText }) => {
+        return (
+          <img
+            src={`src/images/svg-icons/${src}`}
+            alt={altText}
+            style="margin: 10px"
+            height="75"
+          />
+        );
+      })
+    }
+  </div>
+</div>
