@@ -1,0 +1,55 @@
+---
+type SocialBadge = {
+  href: URL;
+  image: {
+    alt: string;
+    src: URL;
+  };
+};
+
+const badges: ReadonlyArray<SocialBadge> = [
+  {
+    href: new URL("https://jacobasper.com/"),
+    image: {
+      alt: "Portfolio",
+      src: new URL(
+        "https://img.shields.io/badge/Portfolio-FE7500?style=for-the-badge"
+      ),
+    },
+  },
+  {
+    href: new URL("https://twitter.com/asper_jacob"),
+    image: {
+      alt: "Twitter",
+      src: new URL(
+        "https://img.shields.io/badge/twitter-FE7500?acee.svg?&style=for-the-badge&logo=twitter&logoColor=white"
+      ),
+    },
+  },
+  {
+    href: new URL("https://linkedin.com/in/jacobasper191"),
+    image: {
+      alt: "LinkedIn",
+      src: new URL(
+        "https://img.shields.io/badge/linkedin-FE7500?E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+      ),
+    },
+  },
+];
+---
+
+<div align="center">
+  {
+    badges.map(({ href, image }) => {
+      return (
+        <a {href}>
+          <img
+            src={image.src.href}
+            alt={image.alt}
+            style="margin-bottom: 5px;"
+          />
+        </a>
+      );
+    })
+  }
+</div>
