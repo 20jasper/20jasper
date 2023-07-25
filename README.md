@@ -20,9 +20,9 @@
   infrastructure, and QA testing
 </p>
 
-<h3 align="center">
+<p align="center">
   Go to <a href="https://jacobasper.com">my portfolio</a> for more information!
-</h3>
+</p>
 
 <hr>
 
