@@ -114,17 +114,10 @@
 <div align="center">
   <h2>Skills</h2>
   <div align="center">
-    <img style="margin: 10px" src="svg-icons/javascript.svg" alt="JavaScript" height="75">
-    <img style="margin: 10px" src="svg-icons/mongoDB.svg" alt="MongoDB" height="75">
-    <img style="margin: 10px" src="svg-icons/nodejs.svg" alt="Node.js" height="75">
-    <img style="margin: 10px" src="svg-icons/git.svg" alt="Git" height="75">
-    <img style="margin: 10px" src="svg-icons/express.svg" alt="Express.js" height="75">
-    <img style="margin: 10px" src="svg-icons/EJS.svg" alt="EJS.js" height="75">
-    <img style="margin: 10px" src="svg-icons/CSS3.svg" alt="CSS3" height="75">
-    <img style="margin: 10px" src="svg-icons/HTML5.svg" alt="HTML5" height="75">
-    <img style="margin: 10px" src="svg-icons/react.svg" alt="React" height="75">
+    <img src="src/images/svg-icons/javascript.svg" alt="JavaScript" style="margin: 10px" height="75"><img src="src/images/svg-icons/nodejs.svg" alt="Node.js" style="margin: 10px" height="75"><img src="src/images/svg-icons/git.svg" alt="Git" style="margin: 10px" height="75"><img src="src/images/svg-icons/express.svg" alt="Express" style="margin: 10px" height="75"><img src="src/images/svg-icons/HTML5.svg" alt="HTML" style="margin: 10px" height="75"><img src="src/images/svg-icons/CSS3.svg" alt="CSS" style="margin: 10px" height="75"><img src="src/images/svg-icons/react.svg" alt="react" style="margin: 10px" height="75"><img src="src/images/svg-icons/mongoDB.svg" alt="MongoDB" style="margin: 10px" height="75"><img src="src/images/svg-icons/postgreSQL.svg" alt="postgreSQL" style="margin: 10px" height="75">
   </div>
 </div>
+
 <h2 align="center">Connect with me</h2>
 <div align="center">
   <a href="https://jacobasper.com/">
