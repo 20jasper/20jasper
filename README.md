@@ -54,14 +54,14 @@
                     Interview Question API GraphQL
                   </h3>
                   <div align="center">
-                    <a>
+                    <a href="https://full-stack-interview-prep.up.railway.app/">
                       <img src="https://github.com/bytesbybianca/readme-assets/raw/main/project-images/fullStackInterviewQuestions.gif?raw=true" alt="An animation of a button being clicked and a question showing up">
                     </a>
                     <div>
                       <a href="https://github.com/20jasper/interview_question_api_graphql">
                         <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="Interview Question API GraphQL GitHub Repo">
                       </a>
-                      <a>
+                      <a href="https://full-stack-interview-prep.up.railway.app/">
                         <img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" alt="Interview Question API GraphQL Live Site">
                       </a>
                     </div>

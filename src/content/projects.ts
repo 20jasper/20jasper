@@ -32,7 +32,7 @@ export const projects: ReadonlyArray<Project> = [
   },
   {
     projectName: "Interview Question API GraphQL",
-    demoUrl: null,
+    demoUrl: "https://full-stack-interview-prep.up.railway.app/",
     description: "Query full stack interview questions by category",
     media: {
       mediaType: "image",
