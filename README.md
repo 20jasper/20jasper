@@ -32,6 +32,25 @@
     <tr>
       <tr><td width="50%">
                   <h3 align="center" color="white">
+                    Leptos Tac Toe
+                  </h3>
+                  <div align="center">
+                    <a href="https://20jasper.github.io/leptos-tic-tac-toe/">
+                      <img src="src/images/leptos-tac-toe.png" alt="A Tic tac toe board with the current user's token above it">
+                    </a>
+                    <div>
+                      <a href="https://github.com/20jasper/leptos-tic-tac-toe">
+                        <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="Leptos Tac Toe GitHub Repo">
+                      </a>
+                      <a href="https://20jasper.github.io/leptos-tic-tac-toe/">
+                        <img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" alt="Leptos Tac Toe Live Site">
+                      </a>
+                    </div>
+                    <p>Tic Tac Toe built with Rust and Leptos</p>
+                    <p>Rust and Leptos</p>
+                  </div>
+                </td><td width="50%">
+                  <h3 align="center" color="white">
                     Portfolio Site Astro
                   </h3>
                   <div align="center">
@@ -49,7 +68,7 @@
                     <p>Jacob Asper&#39;s web development portfolio—now in Astro!</p>
                     <p>TypeScript, Astro, and CSS</p>
                   </div>
-                </td><td width="50%">
+                </td></tr><tr><td width="50%">
                   <h3 align="center" color="white">
                     Interview Question API GraphQL
                   </h3>
@@ -68,7 +87,7 @@
                     <p>Query full stack interview questions by category</p>
                     <p>Rust, GraphQL, and axum</p>
                   </div>
-                </td></tr><tr><td width="50%">
+                </td><td width="50%">
                   <h3 align="center" color="white">
                     Five Line Rhyme
                   </h3>
@@ -86,25 +105,6 @@
                     </div>
                     <p>A collection of poems only five lines long</p>
                     <p>JavaScript, CSS, Node, Express, Pug, MongoDB, and Mongoose</p>
-                  </div>
-                </td><td width="50%">
-                  <h3 align="center" color="white">
-                    Budget Tracker
-                  </h3>
-                  <div align="center">
-                    <a href="https://budget-tracker.up.railway.app/">
-                      <img src="https://user-images.githubusercontent.com/78604367/188524492-5c3a6633-335d-4511-ac35-59dc073f138c.png" alt="A budget planner with a few test expenses. There is a form to add a new expense">
-                    </a>
-                    <div>
-                      <a href="https://github.com/20jasper/budget-tracker">
-                        <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="Budget Tracker GitHub Repo">
-                      </a>
-                      <a href="https://budget-tracker.up.railway.app/">
-                        <img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" alt="Budget Tracker Live Site">
-                      </a>
-                    </div>
-                    <p>Track your monthly expenses</p>
-                    <p>JavaScript, CSS, HTML, Node, Express, EJS, MongoDB, and Mongoose</p>
                   </div>
                 </td></tr>
     </tr>

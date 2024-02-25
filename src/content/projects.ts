@@ -18,6 +18,18 @@ type Project = Readonly<{
 
 export const projects: ReadonlyArray<Project> = [
   {
+    projectName: "Leptos Tac Toe",
+    demoUrl: "https://20jasper.github.io/leptos-tic-tac-toe/",
+    description: "Tic Tac Toe built with Rust and Leptos",
+    media: {
+      mediaType: "image",
+      src: "src/images/leptos-tac-toe.png",
+      altText: "A Tic tac toe board with the current user's token above it",
+    },
+    techUsed: ["Rust", "Leptos"],
+    gitHubUrl: "https://github.com/20jasper/leptos-tic-tac-toe",
+  },
+  {
     projectName: "Portfolio Site Astro",
     demoUrl: "https://jacobasper.com/",
     description: "Jacob Asper's web development portfolio—now in Astro!",
@@ -63,27 +75,5 @@ export const projects: ReadonlyArray<Project> = [
       "Mongoose",
     ],
     gitHubUrl: "https://github.com/20jasper/five-line-rhyme",
-  },
-  {
-    projectName: "Budget Tracker",
-    demoUrl: "https://budget-tracker.up.railway.app/",
-    description: "Track your monthly expenses",
-    media: {
-      mediaType: "image",
-      src: "https://user-images.githubusercontent.com/78604367/188524492-5c3a6633-335d-4511-ac35-59dc073f138c.png",
-      altText:
-        "A budget planner with a few test expenses. There is a form to add a new expense",
-    },
-    techUsed: [
-      "JavaScript",
-      "CSS",
-      "HTML",
-      "Node",
-      "Express",
-      "EJS",
-      "MongoDB",
-      "Mongoose",
-    ],
-    gitHubUrl: "https://github.com/20jasper/budget-tracker",
   },
 ];
