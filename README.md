@@ -19,6 +19,8 @@
         </a>
 </div>
 
+<br>
+
 <p align="center">
   I work mainly in Rust and TypeScript. I'm looking for work—please <a href="https://jacobasper.com/#contactMe">reach out if you're interested in working together</a>
 </p>
