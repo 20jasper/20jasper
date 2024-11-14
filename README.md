@@ -5,7 +5,7 @@
 
 <div align="center">
   <p>
-    Check out my blog for some good stuff. <a href="jacobasper.com">jacobasper.com</a>
+    Check out my blog for some good stuff. <a href="https://jacobasper.com/">jacobasper.com</a>
   </p>
   <p>I like Rust</p>
 
