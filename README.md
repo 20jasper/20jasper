@@ -5,21 +5,17 @@
 
 <div align="center">
   <p>
-    Check out my blog for some good stuff. <a href="jacobasper.com">jacobasper.com</a>
+    Check out my blog for some good stuff. <a href="https://jacobasper.com">jacobasper.com</a>
   </p>
   <p>I like Rust</p>
 
-  <p>
-    I'm building a JSON parser to learn more about Finite State Machines Now!
-  </p>
+  <p>I'm learning Haskell now!</p>
 </div>
 
 <h2 align="center">Connect with me</h2>
 <div align="center">
   <a href="https://www.youtube.com/@jacobasper">
           <img src="https://img.shields.io/badge/youtube-FE7500?acee.svg?&#38;style=for-the-badge&#38;logo=youtube&#38;logoColor=white" alt="YouTube" style="margin-bottom: 5px;">
-        </a><a href="https://twitter.com/asper_jacob">
-          <img src="https://img.shields.io/badge/twitter-FE7500?acee.svg?&#38;style=for-the-badge&#38;logo=twitter&#38;logoColor=white" alt="Twitter" style="margin-bottom: 5px;">
         </a><a href="https://linkedin.com/in/jacobasper191">
           <img src="https://img.shields.io/badge/linkedin-FE7500?E77B5.svg?&#38;style=for-the-badge&#38;logo=linkedin&#38;logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;">
         </a><a href="https://bsky.app/profile/jacobasper.com">
